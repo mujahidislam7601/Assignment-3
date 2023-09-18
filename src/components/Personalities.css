@@ -1,0 +1,30 @@
+.personalities {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .personality-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .personality {
+    margin: 20px;
+  }
+  
+  .personality img {
+    max-width: 30%;
+    border: 1px solid #ddd;
+    border-radius: 10%;
+  }
+  
+  .personality h3 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  .personality p {
+    font-size: 14px;
+  }
+  
